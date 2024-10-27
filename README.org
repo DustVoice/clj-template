@@ -1,6 +1,10 @@
-#+title: README
+#+title: clj-Template
 
-* Templates
+# About
+
+Some description
+
+# Development Stack
 
 The project is implemented in `clojure` utilizing `deps.edn`/`clj-tools`.
 
